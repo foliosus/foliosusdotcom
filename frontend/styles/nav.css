@@ -13,6 +13,26 @@
   line-height: 1.5;
 }
 
+#primary_header h1 a, #primary_header h1 a:link, #primary_header h1 a:visited {
+  color: var(--heading-color);
+  text-decoration: none;
+}
+
+#primary_header h1 a:hover {
+  color: var(--link-hover-color);
+}
+
+#primary_header h1 a:active {
+  color: var(--link-active-color);
+}
+
+#primary_header h1 img {
+  display: inline-block;
+  margin-right: 0.5rem;
+  position: relative;
+  top: 0.125rem;
+}
+
 #primary_header nav {
   flex: 0 0 auto;
 }

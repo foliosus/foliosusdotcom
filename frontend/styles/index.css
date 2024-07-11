@@ -21,7 +21,7 @@
 }
 
 main {
-  padding: 25px var(--gutter-width) 50px;
+  padding: var(--font-size) var(--gutter-width) calc(2 * var(--font-size));
   background: white;
 
   @media (max-width: 500px) {
