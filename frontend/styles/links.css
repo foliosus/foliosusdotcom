@@ -1,0 +1,18 @@
+a, a:link, a:visited {
+  color: var(--link-color);
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-color: var(--link-color);
+  text-decoration-skip-ink: auto;
+  text-underline-offset: 2px;
+}
+
+a:hover {
+  color: var(--link-hover-color);
+  text-decoration-color: var(--link-hover-color);
+}
+
+a:active {
+  color: var(--link-active-color);
+  text-decoration-color: var(--link-active-color);
+}
