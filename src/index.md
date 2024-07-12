@@ -19,9 +19,3 @@ title: Brent Miller, RoR engineer
 <p>I'm excited about working for a company that's trying to make the world a better place: climate tech, healthcare and science are three sectors I'm interested in. But, a brief warning about AI &mdash; if you say you're using AI then you probably can't be doing good things for the environment. AI consumes energy like it's going out of style.</p>
 
 <p>My ideal role is at the senior or lead level, where I can not only contribute technically but also work on some of the more human and process parts of the team. I have extensive process design and facilitation experience, and it's work that I find profoundly satisfying.</p>
-
-<h2>Todo:</h2>
-
-<ol>
-  <li><a href="https://www.bridgetownrb.com/docs/deployment#github-pages">publish to gh pages</a></li>
-</ol>
