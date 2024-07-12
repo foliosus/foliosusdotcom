@@ -10,6 +10,7 @@ title: Brent Miller, RoR engineer
 
 <ol>
   <li>get a sort-of cover letter written</li>
+  <li>write the <a href="/about">about</a> page</li>
   <li>link to "portfolio": angie, doubtaboutwill, mixologist, flickr</li>
   <li>Complete the <code>site_metadata.yml</code></li>
 </ol>
