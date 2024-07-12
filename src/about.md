@@ -22,7 +22,7 @@ title: About Brent
 <p>In addition to my work for the companies listed on my <a href="/resume">resume</a>, I've also built these:</p>
 
 <ul>
-  <li><a href="https://mixologi.st">Mixologi.st</a>: a collection of my favorite cocktails, mostly vintage recipes.</li>
+  <li><a href="https://drinks.mixologi.st">Mixologi.st</a>: a collection of my favorite cocktails, mostly vintage recipes.</li>
   <li><a href="https://angelitasurmon.com">Angelita Surmon's site</a>: Angie is a local artist. I've been maintaining her site for years.</li>
   <li><a href="https://doubtaboutwill.org">Doubt About Will</a>: A site that assembles many arguments skeptical that the guy from Stratford is the guy who wrote the plays. Security has been an issue, because of the tourism industry in Stratford-upon-Avon.</li>
   <li><a href="https://fixyourownback.com">FixYourOwnBack.com</a>: I built a previous version of this site with <a href="https://drphillipsnell.com/">Dr. Phillip Snell</a> (my chiropractor!), designed to get pre- and post- intervention data to prove that ~75% of people with discogenic lower back pain could heal themselves with online training without hands-on chiropractic treatment. We got scooped on publication by other chiropractors, so we dismantled the site and pivoted to an off-the-shelf e-learning platform.</li>
