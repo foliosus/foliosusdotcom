@@ -4,21 +4,28 @@ footer {
   border-top: 3px solid var(--link-color);
   padding: 1rem var(--gutter-width);
 
-  display: flex;
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto auto;
+  grid-template-areas: "contact links" "copyright copyright";
   justify-content: space-between;
 }
 
-footer p {
-  flex: 0 0 auto;
+footer #contact_me {
+  grid-area: contact;
+  margin-bottom: 0;
 }
 
 footer ul {
-  flex: 0 0 auto;
+  grid-area: links;
   list-style-type: none;
 
   display: flex;
   justify-content: flex-end;
   gap: 0.25rem;
+
+  margin-bottom: 0;
+  padding-left: 0;
 }
 
 footer ul a {
@@ -36,4 +43,12 @@ footer ul a:hover {
 
 footer ul a:active {
   border-color: var(--link-active-color);
+}
+
+footer #copyright {
+  grid-area: copyright;
+  color: var(--body-subtle-color);
+  font-size: 0.75rem;
+  text-align: center;
+  margin-bottom: 0;
 }

@@ -40,5 +40,5 @@ p, ul {
 }
 
 p.subtitle {
-  color: #888;
+  color: var(--body-subtle-color);
 }

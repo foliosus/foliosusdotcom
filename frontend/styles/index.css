@@ -8,6 +8,7 @@
 :root {
   --body-background: #538399;
   --body-color: #464c54;
+  --body-subtle-color: #888;
   --heading-color: #323942;
   --content-width: 60rem;
   --gutter-width: 1rem;
