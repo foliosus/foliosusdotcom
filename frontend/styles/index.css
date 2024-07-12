@@ -41,3 +41,18 @@ main {
   outline-offset: 3px;
   margin: calc(2 * var(--font-size)) 0 calc(0.5 * var(--font-size)) 0.5rem;
 }
+
+figure {
+  margin-bottom: var(--font-size);
+}
+
+figure img {
+  margin: 0 auto var(--font-size);
+}
+
+figure figcaption {
+  width: 50%;
+  margin: 0 auto;
+  color: var(--body-subtle-color);
+  font-size: 0.75rem;
+}

@@ -23,7 +23,5 @@ title: Brent Miller, RoR engineer
 <h2>Todo:</h2>
 
 <ol>
-  <li>write the <a href="/about">about</a> page</li>
-  <li>link to "portfolio": angie, doubtaboutwill, mixologist, flickr</li>
   <li><a href="https://www.bridgetownrb.com/docs/deployment#github-pages">publish to gh pages</a></li>
 </ol>
