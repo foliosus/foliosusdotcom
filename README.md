@@ -52,6 +52,6 @@ bin/bridgetown console
 
 ## Deployment
 
-You can deploy Bridgetown sites on hosts like Render or Vercel as well as traditional web servers by simply building and copying the output folder to your HTML root.
+Simply push to the main branch, to kick off a GitHub Actions job that will publish to GitHub pages.
 
 > Read the [Bridgetown Deployment Documentation](https://www.bridgetownrb.com/docs/deployment) for more information.
