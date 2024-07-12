@@ -3,7 +3,7 @@ layout: default
 title: Brent Miller, RoR engineer
 ---
 
-<img src="images/brent_miller.jpg" width="180" id="headshot">
+<img src="/images/brent_miller.jpg" width="180" id="headshot">
 
 <h1 id="greeting">Hi! 👋🏼 I'm Brent.</h1>
 <p>I'm a software engineer based in Portland, Oregon that specializes in Ruby on Rails with a double-minor in frontend development and agile processes/organizational design. I believe that boring tech is good tech, and that we must build software for real users, taking their needs and foibles into account.</p>

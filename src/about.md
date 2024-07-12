@@ -12,7 +12,7 @@ title: About Brent
 <p>For fun, I'm all about food, both making and eating! Also, <a href="https://sorashodo.com/">Japanese calligraphy</a>, <a href="https://flickr.com/photos/foliosus/albums/72057594052965540/">plant photography</a>, and boardgames. And don't forget the kittenz! 😻</p>
 
 <figure>
-  <img src="images/hakumei_no_umi_wo.jpg" width="582" height="274" class="banner_image" />
+  <img src="/images/hakumei_no_umi_wo.jpg" width="582" height="274" class="banner_image" />
   <figcaption>My entry to the 2023 S&omacr;gen competition, in the shibunsho division 1, which was accepted into the exhibit! It's about 6 feet wide.</figcaption>
 </figure>
 
