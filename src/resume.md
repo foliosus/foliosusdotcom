@@ -13,6 +13,11 @@ title: Brent Miller, RoR engineer and agilist, resume
 
 <h2>Experience</h2>
 
+<h3>Software Engineer, Scholarly Software</h3>
+<p class="subtitle">Portland, OR (fully remote); September 2024 &ndash; July 2025</p>
+
+<p>As one of 5 engineers in the company, I built and delivered multiple customer-facing features from the ground up. Some highlights: (1) Creating a Word document export feature to export CVs for customers (researchers) that were repeatable and easy to style. (2) I built a data ingest pipeline to enable Scholarly to scrape different data sources (eg the ORCID API, Google Scholar) for a researcher and to reconcile the different publications lists so as to save data entry time while providing a complete overview of the researcher's publication record. (3) I also started to move the team away from components-for-everything with Tailwind styles, and towards using simple markup with a simple stylesheet for styling complex markup patterns like tables.</p>
+
 <h3>Lead Software Engineer, YearOne</h3>
 <p class="subtitle">Portland, OR (fully remote); February 2021 &ndash; July 2024</p>
 
